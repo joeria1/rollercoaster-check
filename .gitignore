@@ -1,6 +1,1 @@
-__pycache__/
-
-
-temp/
-
-password.secret
+__pycache__/temp/password.secret.txt
